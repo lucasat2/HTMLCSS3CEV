@@ -1,0 +1,3 @@
+border-image-source: url('borda.PNG'); // colocar imagem na borda
+      border-image-slice: 20; // fatiar a borda 
+      border-image-repeat: repeat ou stretch // repetir ou esticar a borda
